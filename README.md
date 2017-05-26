@@ -11,17 +11,17 @@
 ### Agenda
 
 * **I do**
- * Explain why functions are important
- * Show an example of a function and break it down
+  Explain why functions are important and
+  show an example of a function and break it down
 
 
 * **We do**
- * Work through a function as a class
- * Describe the parts of the function as we go
+  Work through a function as a class and
+  describe the parts of the function as we go
 
 
 * **You do**
- * Create three functions that take a varied amount of arguments
+  Create three functions that take a varied amount of arguments
 
 ### Why Functions?
 
