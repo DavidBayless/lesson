@@ -63,7 +63,7 @@ To invoke a function you use the *name* of the function and the open and close p
 **Arguments**
 With a function that has parameters, we should give two arguments inside of those parenthesis similar to how we defined parameters earlier. Where parameters were the name of what we would pass in, arguments are the actual values we pass in at the time of invocation. A quick note, since we passed in 2 and 1 as our values `numOne` would equal `2` and `numTwo` would equal `1`.
 
-###Assignment
+### Assignment
 
 1. Create a function named `helloWorld` that takes 0 arguments and returns `"Hello, World!"`.
 
